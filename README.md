@@ -5,8 +5,6 @@
 **AI / ML · Computer Vision · LLM · RAG**
 
 [![Gmail](https://img.shields.io/badge/duybao213@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:duybao213@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/DuyBaoPhan)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/DuyBaoPhan)
 
 *CS Student @ Nguyen Tat Thanh University · Class of 2025 · Ho Chi Minh City 🇻🇳*
 
