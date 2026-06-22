@@ -6,8 +6,6 @@
 
 Building AI systems with Computer Vision, OCR and Large Language Models.
 
-[![Gmail](https://img.shields.io/badge/duybao213@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:duybao213@gmail.com)
-
 </div>
 
 ---
