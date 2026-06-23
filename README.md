@@ -3,13 +3,8 @@
 # Phan Duy Bảo
 
 **AI / ML Engineer · Computer Vision · LLM · RAG**
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+powered+applications;Computer+Vision+%7C+OCR+%7C+LLM;Exploring+Deep+Learning+and+RAG;Turning+ideas+into+intelligent+systems" />
-
 </div>
-
----
-
 ## 🧠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
